@@ -19,3 +19,5 @@ I received my B.A. and M.A. in English Language and Literature from Yonsei Unive
 - Speech production and perception
 - Child language development
 - Prosody
+
+  
