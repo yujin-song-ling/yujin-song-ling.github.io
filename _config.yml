@@ -23,7 +23,7 @@ repository               : "yujin-song-ling/yujin-song-ling.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yujin Song"
   pronouns         : "she/her"  
   bio              : "Ph.D. Candidate in Linguistics"
